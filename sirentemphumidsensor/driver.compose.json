@@ -1,5 +1,5 @@
 {
-  "id": "sirentemphumidsensor",
+  "id": "siren_NEO",
   "name": {
     "en": "Siren, Temperature & Humidity Sensor"
   },
@@ -32,7 +32,9 @@
   },
   "zigbee": {
     "manufacturerName": [
-      "_TZE200_d0yu2xgi"
+      
+      "_TZE204_t1blo2bj"
+
     ],
     "productId": [
       "TS0601"
